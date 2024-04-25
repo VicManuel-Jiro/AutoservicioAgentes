@@ -1,0 +1,1 @@
+( ap-description  :name "A2" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://Jiro:62156/acc))))
